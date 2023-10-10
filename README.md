@@ -6,6 +6,8 @@ Uses TfidVectoriser and CountVectoriser for vector matrix and stores details in 
 
 ## Tech Stack
 
+**Pickle** As the pickle file for csv and similarity wasvery large i haven't included but code is there in notebook it will create pkl files itself and it should be as same path given in app.py
+
 **Server:**  Python,Streamlit,Jupyter Notebook
 
 **Database:**  Csv File
